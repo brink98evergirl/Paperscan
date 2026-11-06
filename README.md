@@ -217,4 +217,4 @@ PaperScan is available as a complete free version for Windows, providing all fea
 Take your scanning to the next level with PaperScan—download now and experience the full functionality of this powerful software!
 
 ---
-**Last updated:** 2026-11-06 08:46:56 UTC
+**Last updated:** 2026-11-06 16:29:30 UTC
